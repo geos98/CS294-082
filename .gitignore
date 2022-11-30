@@ -1,4 +1,4 @@
-compressed.csv
+*.csv
 pytorch_resnet_cifar10/
 .ipynb_checkpoints/
 data/
